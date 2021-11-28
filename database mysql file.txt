@@ -1,0 +1,7 @@
+create database medicare;
+use medicare;
+INSERT INTO cart (id)
+VALUES (500);
+INSERT INTO user (user_id, authority, date_of_birth, first_name, last_name, password, primary_email,primary_phone_no,username,cart_id)
+VALUES (2000, 'ROLE_Admin', '2000-05-22 05:30:00.000000', 'Adminn', 'balu', 'admin','admin@gmail.com','9113000121','Admin1',500);
+select * from user;
