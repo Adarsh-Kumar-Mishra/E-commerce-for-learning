@@ -1,0 +1,21 @@
+Bharath V G2:21 PM
+https://github.com/Bharath7353/staticfilesforangular
+https://github.com/Bharath7353/Medicare-Angular
+https://github.com/Bharath7353/CapstoneMedicareProject
+https://github.com/saurabhkawatra?tab=repositories
+Bharath V G2:23 PM
+1.create medicare database
+
+2.INSERT INTO cart (id)
+VALUES (500);
+
+
+3. INSERT INTO user (user_id, authority, date_of_birth, first_name, last_name, password, primary_email,primary_phone_no,username,cart_id)
+VALUES (2000, 'ROLE_Admin', '2000-05-22 05:30:00.000000', 'Adminn', 'balu', 'admin','admin@gmail.com','9113000121','Admin1',500);
+Bharath V G2:26 PM
+Bharath V G2:37 PM
+
+2.INSERT INTO cart (id)
+VALUES (500);
+
+
